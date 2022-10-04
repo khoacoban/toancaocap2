@@ -6,3 +6,7 @@
 - Email: ffs@iuh.edu.vn
 ## Các sai sót
 ## Phản hồi từ đọc giả
+## Phản hồi từ đọc giả
+
+- [Để lại phản hồi](https://github.com/khoacoban/toancaocap1/issues)
+- [Gửi email](mailto:ffs@iuh.edu.vn)
