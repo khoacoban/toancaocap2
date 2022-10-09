@@ -1,3 +1,5 @@
+<img width="100%"  src="figures/iuh.png" />
+
 # Giáo trình toán cao cấp 2
 ## Thông tin chung
 - Tác giả: Nguyễn Thị Thu Hà, Đoàn Vương Nguyên, Nguyễn Đức Phương
