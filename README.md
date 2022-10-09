@@ -6,8 +6,6 @@
 - Năm xuất bản: 2022
 - Email: ffs@iuh.edu.vn
 - IBSN: 
-## Thông tin chung
--
 ## Các sai sót
 ## Phản hồi từ đọc giả
 ## Phản hồi từ đọc giả
