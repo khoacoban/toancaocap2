@@ -1,4 +1,6 @@
-<img width="100%"  src="figures/iuh.png" />
+<center><img width="60%"  src="figures/iuh.png" /></center>
+
+-----
 
 # Giáo trình toán cao cấp 2
 ## Thông tin chung
