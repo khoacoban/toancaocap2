@@ -1,14 +1,13 @@
-<center><img width="60%"  src="figures/iuh.png" /></center>
+<h1 align="center"><img width="40%"  src="figures/iuh.png" /></h1>
 
------
-
-# Giáo trình toán cao cấp 2
-## Thông tin chung
+## Giáo trình toán cao cấp 2
 - Tác giả: Nguyễn Thị Thu Hà, Đoàn Vương Nguyên, Nguyễn Đức Phương
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
 - Năm xuất bản: 2022
 - Email: ffs@iuh.edu.vn
 - IBSN: 
+## Thông tin chung
+-
 ## Các sai sót
 ## Phản hồi từ đọc giả
 ## Phản hồi từ đọc giả
