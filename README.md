@@ -1,4 +1,6 @@
-<h1 align="center"><img width="40%"  src="figures/iuh.png" /></h1>
+<p align="center">
+  <img width="30%" src="figures/iuh.png">
+</p>
 
 -----
 
