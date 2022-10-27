@@ -16,7 +16,8 @@
 ### Các sai sót
 |Trang           | dòng  | Lỗi         |Chỉnh sửa|
 |----------------|-------|-------------|---------|
-
+|35|2|Bài tập tự luận|Bài tập tự luận chương|
+|119|5|Bài tập tự luận|Bài tập tự luận chương|
 -----
 
 ### Phản hồi từ đọc giả
