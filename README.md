@@ -19,6 +19,8 @@
 |35|2|Bài tập tự luận|Bài tập tự luận chương|
 |119|5|Bài tập tự luận|Bài tập tự luận chương|
 |2|5|m|n|
+|13|12|(trang 21)|(trang 31)|
+|13|13|(chương 2))|(chương 2)|
 -----
 
 ### Phản hồi từ đọc giả
