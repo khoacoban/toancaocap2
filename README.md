@@ -23,9 +23,9 @@
 |13|13|(chương 2))|(chương 2)|
 |10|-1|40số hạng|40 số hạng|
 |51|-10 câu 1.81|D. m<0| D. m>0|
-|84|1,3,4|Câu 2.51 đáp án A, C, D trùng nhau| $A.\,x = \frac{{11}}{7}t,\,y = \frac{1}{7},\,z = t,\,t\, \in \,{\mathbb R}.$ |
-||||$C.\,x =  - \frac{{11}}{7}t,\,y = \frac{1}{7},\,z = t,\,t\, \in \,{\mathbb R}$|
-||||$D.\,x = \frac{{11}}{7}t,\,y =  - \frac{1}{7}t,\,z = t,\,t\, \in \,{\mathbb R}$|
+|84|1,3,4|Câu 2.51 đáp án A, C, D trùng nhau| $A.x = \frac{{11}}{7}t,y = \frac{1}{7},z = t,t \in {\mathbb R}.$ |
+||||$C.x =  - \frac{{11}}{7}t,y = \frac{1}{7},z = t,t \in {\mathbb R}$|
+||||$D.x = \frac{{11}}{7}t,y =  - \frac{1}{7}t,z = t,t \in {\mathbb R}$|
 |92 |4 | Đáp án D lặp 2 lần $m \ne  - 1$ | $D. m\ne -1$ |
 |96|6|Câu 2.71 hệ phương trình thiếu PT thứ 4|   ${2x + 4y - mz = 6}$ |
 |135|3|Câu 3.84 hệ phương trình thiếu PT thứ 5|   ${11{ {x}} - 11y + 5{{z}} - 11t = 0}$ |
